@@ -33,13 +33,12 @@ Installation
     1) Download the GCC and install it (if its already installed skip this part)
     2) Download the excutable file for your os then install it
 
-
-Run the application via:
-
 bash
+
     java -jar c-ide-swing.jar
 
 Usage
+
     Open the IDE and start a new C project.
     Write your C code in the editor.
     Click on Compile icon to build the program and view any errors in the console.
