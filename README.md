@@ -6,7 +6,10 @@ C IDE Made with Java Swing
 
 Overview
 
-This project is an IDE for the C programming language built using Java Swing. The goal is to provide a lightweight and user-friendly interface for writing, compiling, and debugging C programs. The IDE supports basic features such as code editing, compilation, and error highlighting.
+    This project is an IDE for the C programming language built using Java Swing. The goal is to provide a lightweight and user-friendly
+    interface for writing, compiling, and debugging C programs. The IDE supports basic features such as code editing, compilation, and
+    error highlighting.
+    
 Features
 
     Code Editor: Syntax highlighting and line numbering for C code.
@@ -27,20 +30,13 @@ Requirements
 
 Installation
 
-    Clone the repository:
+    1) Download the GCC and install it (if its already installed skip this part)
+    2) Download the excutable file for your os then install it
 
-    bash
-
-git clone https://github.com/azizbalti82/c-ide-swing.git
-
-Build the project using any IDE supporting Maven or Gradle.
-
-Ensure that the C compiler (like GCC) is properly installed on your machine.
 
 Run the application via:
 
 bash
-
     java -jar c-ide-swing.jar
 
 Usage
