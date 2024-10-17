@@ -1,8 +1,9 @@
 # IDE-for-language-C
 a simple yet powerful ide for c made from scrach with java using swing library
 
-
 C IDE Made with Java Swing
+
+
 Overview
 
 This project is an IDE for the C programming language built using Java Swing. The goal is to provide a lightweight and user-friendly interface for writing, compiling, and debugging C programs. The IDE supports basic features such as code editing, compilation, and error highlighting.
