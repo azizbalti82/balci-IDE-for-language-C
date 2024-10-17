@@ -17,6 +17,12 @@ Features
     Music player: this app also have a music player built in to listen to your favorite music while coding
     and more...
 
+    ![image](https://github.com/user-attachments/assets/2c054277-9dfb-4c52-b7fa-e38537c82a01)
+    ![image](https://github.com/user-attachments/assets/393c1145-8fed-43f1-bde7-0294bbb4733f)
+    ![image](https://github.com/user-attachments/assets/8e84c10c-018c-4e43-84ef-3e554bed0e50)
+
+
+
 Requirements
 
     Java 8 or higher
